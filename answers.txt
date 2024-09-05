@@ -1,0 +1,2 @@
+Q1. Why might be consider using git?
+Answer: Git allows you to branch and focus on bug fixes in specific.
