@@ -4,3 +4,5 @@ Answer: Git allows you to branch and focus on bug fixes in specific.
 Q2: What field could data science be applied to? Give an example and how it might help.
 Answer: Data science could be used in healthcare for detecting diseases beforehand. Things like identifying early signs of skin cancer through machine learning could be really helpful.
 
+Q3: What is the difference between merging and rebasing?
+Answer: Merging maintains the history of both of the files that are merged, while rebasing replaces the file's history. 
