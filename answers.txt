@@ -7,5 +7,5 @@ Answer: Data science could be used in healthcare for detecting diseases beforeha
 Q3: What is the difference between merging and rebasing?
 Answer: Merging maintains the history of both of the files that are merged, while rebasing replaces the file's history. 
 
-Q3: What skills do you hope to improve during this course?
+Q4: What skills do you hope to improve during this course?
 Answer: I hope to improve my skills in python and analyzing large sets of data.
